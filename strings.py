@@ -1,0 +1,11 @@
+message= 'hello'
+print(message)
+print(len(message))
+print(message.strip())
+print(message.lower())
+print(message.upper())
+print(message.replace('h', 'H'))
+print(message.split(','))
+print(message[0])
+print(message[1])
+print(message[-1])
